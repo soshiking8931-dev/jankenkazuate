@@ -139,8 +139,8 @@
     </Manifest>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="include.h" />
     <ClCompile Include="janken.cpp" />
-    <ClCompile Include="jankenkazuate.cpp" />
     <ClCompile Include="kazuate.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
