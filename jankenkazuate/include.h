@@ -3,4 +3,3 @@
 using namespace std;
 
 void janken();
-void kazuate();

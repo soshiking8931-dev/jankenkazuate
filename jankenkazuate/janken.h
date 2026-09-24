@@ -1,5 +1,15 @@
-#pragma once
-#include<cstdlib>
-#include<ctime>
+﻿#pragma once
 
-void showHand(int x);
+enum playhand
+{
+	グー,
+	チョキ,
+	パー
+};
+
+enum winJuge
+{
+	LOSE,
+	WIN,
+	DLOW
+};
