@@ -7,7 +7,7 @@ using namespace std;
 int main()
 {
     std::cout << "Hello World!\n";
-    cout << "aiueo";
+    cout << "aiueo" << endl;
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
